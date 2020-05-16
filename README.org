@@ -1,0 +1,15 @@
+#+TITLE: README
+* Introduction
+  Repository of Emacs Lisp code.
+* Structure of the repository
+** =src/=
+   All the Elisp source files are located here.
+** =src/tpl/=
+   Template functions and variables, like skeletons of comments for
+   various language source files.
+* Author
+
++ Roland Everaert
+* Copyright
+
+Copyright (c) 2020 Roland Everaert

@@ -9,3 +9,6 @@ The format is based on [[https://keepachangelog.com/en/1.0.0/][Keep a Changelog]
    - This file
 ** Changed
    - Common Lisp skeleton moved to =tpl/=.
+* [0.1.1] 2020-05-16
+** Changed
+   - All source files and template files moved to =src/=.
